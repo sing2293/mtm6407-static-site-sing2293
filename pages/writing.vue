@@ -1,0 +1,29 @@
+<template>
+  <div class="page">
+    <p class="page-kicker">Writing</p>
+    <h1 class="page-title">Notes, reflections, and process.</h1>
+    <p class="page-lead">
+      I like writing short breakdowns of projects, what I learned, and little
+      details I want to remember next time.
+    </p>
+
+    <div class="card card-soft" style="margin-top: 1.2rem;">
+      <h3>Why I like static site generators</h3>
+      <p>
+        Static site generators like Nuxt and VitePress make it easier to think
+        in components, keep content organized, and deploy fast sites without
+        managing a big backend. For small portfolios, they feel light but
+        powerful.
+      </p>
+    </div>
+
+    <div class="card" style="margin-top: 0.8rem;">
+      <h3>Balancing design and development</h3>
+      <p>
+        I’m still learning how to balance trying cool visual ideas with keeping
+        things usable and accessible. My goal is to ship work that looks good
+        but doesn’t get in the way of the content.
+      </p>
+    </div>
+  </div>
+</template>
