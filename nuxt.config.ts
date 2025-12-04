@@ -1,3 +1,4 @@
+
 import { defineNuxtConfig } from 'nuxt/config'
 
 const repoName = 'mtm6407-static-site-sing2293'
